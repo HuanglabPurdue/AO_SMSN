@@ -24,5 +24,5 @@ Please cite the article in your publications if it helps your research:
 	volume = {Advance Online Publication}
 	number = {}
 	pages = {}
-  URL = {https://doi.org/10.1038/s41592-018-0053-8}
-   }
+  	URL = {https://doi.org/10.1038/s41592-018-0053-8}
+	}
