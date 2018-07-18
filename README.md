@@ -12,6 +12,7 @@ The subvis required by Simplex-AO can be found in the folder “subvis”. Addit
 
 ## Author and Citation
 Main Author: Michael Mlodzianoski
+
 We would like to thank Edward Allgeyer and George Sirinakis, University of Cambridge for programming parts of subvis included in this module.
 
 Please cite the article in your publications if it helps your research:
